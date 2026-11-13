@@ -1,6 +1,4 @@
-<h1 align="center">Hi! I'm Austin</h1>
-
----
+<h1 align="center">Hi! I'm Austin, a Mechatronics Engineering student @ UWaterloo </h1>
 
 ### 🛠️ Tech Stack
 
