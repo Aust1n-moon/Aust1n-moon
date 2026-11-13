@@ -1,11 +1,5 @@
 <h1 align="center">Hi! I'm Austin</h1>
 
-<p align="center">
-  <a href="https://github.com/Aust1n-moon">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&lines=Robotics+%7C+AI/ML" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
